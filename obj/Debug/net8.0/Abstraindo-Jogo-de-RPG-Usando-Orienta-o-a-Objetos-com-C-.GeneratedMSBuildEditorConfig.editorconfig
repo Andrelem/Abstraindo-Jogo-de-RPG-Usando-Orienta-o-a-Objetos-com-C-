@@ -1,0 +1,13 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Abstraindo_Jogo_de_RPG_Usando_Orienta_o_a_Objetos_com_C_
+build_property.ProjectDir = C:\Users\Andre\Documents\Csharp\Abstraindo-Jogo-de-RPG-Usando-Orienta-o-a-Objetos-com-C-\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

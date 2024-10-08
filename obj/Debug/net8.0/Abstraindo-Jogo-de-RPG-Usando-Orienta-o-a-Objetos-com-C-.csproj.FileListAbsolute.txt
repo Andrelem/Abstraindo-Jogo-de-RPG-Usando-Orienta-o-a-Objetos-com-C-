@@ -1,0 +1,15 @@
+C:\Users\Andre\Documents\Csharp\Abstraindo-Jogo-de-RPG-Usando-Orienta-o-a-Objetos-com-C-\bin\Debug\net8.0\Abstraindo-Jogo-de-RPG-Usando-Orienta-o-a-Objetos-com-C-.exe
+C:\Users\Andre\Documents\Csharp\Abstraindo-Jogo-de-RPG-Usando-Orienta-o-a-Objetos-com-C-\bin\Debug\net8.0\Abstraindo-Jogo-de-RPG-Usando-Orienta-o-a-Objetos-com-C-.deps.json
+C:\Users\Andre\Documents\Csharp\Abstraindo-Jogo-de-RPG-Usando-Orienta-o-a-Objetos-com-C-\bin\Debug\net8.0\Abstraindo-Jogo-de-RPG-Usando-Orienta-o-a-Objetos-com-C-.runtimeconfig.json
+C:\Users\Andre\Documents\Csharp\Abstraindo-Jogo-de-RPG-Usando-Orienta-o-a-Objetos-com-C-\bin\Debug\net8.0\Abstraindo-Jogo-de-RPG-Usando-Orienta-o-a-Objetos-com-C-.dll
+C:\Users\Andre\Documents\Csharp\Abstraindo-Jogo-de-RPG-Usando-Orienta-o-a-Objetos-com-C-\bin\Debug\net8.0\Abstraindo-Jogo-de-RPG-Usando-Orienta-o-a-Objetos-com-C-.pdb
+C:\Users\Andre\Documents\Csharp\Abstraindo-Jogo-de-RPG-Usando-Orienta-o-a-Objetos-com-C-\obj\Debug\net8.0\Abstraindo-Jogo-de-RPG-Usando-Orienta-o-a-Objetos-com-C-.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andre\Documents\Csharp\Abstraindo-Jogo-de-RPG-Usando-Orienta-o-a-Objetos-com-C-\obj\Debug\net8.0\Abstraindo-Jogo-de-RPG-Usando-Orienta-o-a-Objetos-com-C-.AssemblyInfoInputs.cache
+C:\Users\Andre\Documents\Csharp\Abstraindo-Jogo-de-RPG-Usando-Orienta-o-a-Objetos-com-C-\obj\Debug\net8.0\Abstraindo-Jogo-de-RPG-Usando-Orienta-o-a-Objetos-com-C-.AssemblyInfo.cs
+C:\Users\Andre\Documents\Csharp\Abstraindo-Jogo-de-RPG-Usando-Orienta-o-a-Objetos-com-C-\obj\Debug\net8.0\Abstraindo-Jogo-de-RPG-Usando-Orienta-o-a-Objetos-com-C-.csproj.CoreCompileInputs.cache
+C:\Users\Andre\Documents\Csharp\Abstraindo-Jogo-de-RPG-Usando-Orienta-o-a-Objetos-com-C-\obj\Debug\net8.0\Abstraindo-Jogo-de-RPG-Usando-Orienta-o-a-Objetos-com-C-.sourcelink.json
+C:\Users\Andre\Documents\Csharp\Abstraindo-Jogo-de-RPG-Usando-Orienta-o-a-Objetos-com-C-\obj\Debug\net8.0\Abstraindo-Jogo-de-RPG-Usando-Orienta-o-a-Objetos-com-C-.dll
+C:\Users\Andre\Documents\Csharp\Abstraindo-Jogo-de-RPG-Usando-Orienta-o-a-Objetos-com-C-\obj\Debug\net8.0\refint\Abstraindo-Jogo-de-RPG-Usando-Orienta-o-a-Objetos-com-C-.dll
+C:\Users\Andre\Documents\Csharp\Abstraindo-Jogo-de-RPG-Usando-Orienta-o-a-Objetos-com-C-\obj\Debug\net8.0\Abstraindo-Jogo-de-RPG-Usando-Orienta-o-a-Objetos-com-C-.pdb
+C:\Users\Andre\Documents\Csharp\Abstraindo-Jogo-de-RPG-Usando-Orienta-o-a-Objetos-com-C-\obj\Debug\net8.0\Abstraindo-Jogo-de-RPG-Usando-Orienta-o-a-Objetos-com-C-.genruntimeconfig.cache
+C:\Users\Andre\Documents\Csharp\Abstraindo-Jogo-de-RPG-Usando-Orienta-o-a-Objetos-com-C-\obj\Debug\net8.0\ref\Abstraindo-Jogo-de-RPG-Usando-Orienta-o-a-Objetos-com-C-.dll

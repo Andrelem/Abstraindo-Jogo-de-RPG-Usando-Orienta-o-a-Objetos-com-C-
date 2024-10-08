@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Abstraindo-Jogo-de-RPG-Usando-Orienta-o-a-Objetos-com-C-/1.0.0": {
+        "runtime": {
+          "Abstraindo-Jogo-de-RPG-Usando-Orienta-o-a-Objetos-com-C-.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Abstraindo-Jogo-de-RPG-Usando-Orienta-o-a-Objetos-com-C-/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
