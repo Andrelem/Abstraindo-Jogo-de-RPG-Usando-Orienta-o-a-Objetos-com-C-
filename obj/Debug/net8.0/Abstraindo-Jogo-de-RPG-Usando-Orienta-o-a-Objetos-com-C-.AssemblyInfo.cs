@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Abstraindo-Jogo-de-RPG-Usando-Orienta-o-a-Objetos-com-C-")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a56665e3769421bb5f261265370495a74cbb9033")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+419f8f5a97888de06986f6882341390c45ffe264")]
 [assembly: System.Reflection.AssemblyProductAttribute("Abstraindo-Jogo-de-RPG-Usando-Orienta-o-a-Objetos-com-C-")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Abstraindo-Jogo-de-RPG-Usando-Orienta-o-a-Objetos-com-C-")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
